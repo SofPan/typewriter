@@ -7,3 +7,8 @@ for (const char of sentence) {
   }, x += 50);
 }
 
+setTimeout(() => {
+  console.log();
+}, x);
+
+
